@@ -1,0 +1,595 @@
+body
+{
+    margin: 0;
+}
+.header
+{
+    width: 100%;
+    height: 70px;
+}
+.menu
+{
+    width: 30%;
+    height: 70px;
+    float: left;
+}
+.menu h1
+{
+    font-size: 20px;
+    font-family:sans-serif;
+    font-weight: lighter;
+    padding-left: 71px;
+    padding-top: 12px;
+}
+.logo
+{
+    width: 70%;
+    height: 70px;
+    float: left;
+    
+}
+.logo img
+{
+    width: 95px;
+    height: 80px;
+    padding-top: -1px;
+    padding-left: 22%;
+}
+.block1
+{
+    position: relative;
+}
+.image-1
+{
+    
+   object-fit: cover;
+    height: 626px;
+    width: 100%;
+    
+}
+.new-audi h1
+{
+    position: absolute;
+    font-family:sans-serif;
+    top: -4px;
+    left: 70px;
+    font-size: 44px;
+    font-weight: normal;
+}
+.button1 button
+{
+    position: absolute;
+    top: 86px;
+    left: 70px;
+    font-size: 18px;
+    font-family:sans-serif;
+    font-weight: lighter;
+    background-color: black;
+    
+
+}
+.button
+{
+    height: 63px;
+    width: 175px
+}
+.button a
+{
+    text-decoration: none;
+    color: white;
+}
+.models img
+{
+    width: 291px;
+   margin-top: 40px;
+    display: block;  
+    height: 125px;
+    margin-left: 1px;
+}
+.model-name
+{
+    font-family:sans-serif;
+    font-weight: lighter;
+    font-size: 20px;
+    padding-top: 27px;
+    padding-left: 36px;
+}
+.models
+{
+    width: 100%;
+    height: 300px;
+    white-space: nowrap;
+    overflow: scroll;
+    display: flex;
+}
+.models h3
+{
+    padding-left: 138px;
+    margin-top: -8px;
+}
+
+.block2
+{
+    width: 100%;
+    height: 750px;
+    display: flex;
+}
+.inner1
+{
+   width: 50%; 
+   height: 750px;
+   display: 1;
+   
+}
+.inner2
+{
+   width: 50%; 
+   height: 750px;
+   display: 1;
+}
+.inner1 img
+{
+    width: 80%;
+    height: 650px;
+    object-fit: cover;
+    margin-left: 60px;
+    margin-top: 55px;
+    
+}
+.inner2 h1
+{
+    font-size: 44px;
+    font-weight: normal;
+    font-family:sans-serif;
+    padding-top: 300px;
+    padding-left: 0px;
+   
+}
+.inner2 button
+{
+    font-size: 18px;
+    font-family:sans-serif;
+    font-weight: lighter;
+    background-color: black;
+    margin-left: 0px;
+
+}
+.block3-img
+{
+    width: 100%;
+    height: 1200px;
+    object-fit: cover;
+    
+}
+.inner-box2
+{
+    position: absolute;
+    height: 296px;
+    width: 726px;
+    background-color: white;
+    top: 275px;
+    left: 56px;
+    padding-left: 26px;
+    padding-right: 26px;
+    
+}
+.block3
+{
+    position: relative;
+}
+.inner-box2 h1
+{
+    font-size: 35px;
+    font-family:sans-serif;
+    font-weight: lighter;
+    margin-top: 35px;
+}
+.inner-box2 p
+{
+    font-size: 18px;
+    font-family:sans-serif;
+    font-weight: lighter;
+    margin-top: -5px;
+}
+.button2 
+{
+    height: 63px;
+    width: 175px;
+    font-size: 18px;
+    font-family:sans-serif;
+    font-weight: lighter;
+    background-color: black;
+    
+}
+.button3
+{
+    height: 63px;
+    width: 200px;
+    font-size: 18px;
+    font-family:sans-serif;
+    font-weight: lighter;
+    background-color: white;
+    
+    
+}
+.button2 a
+{
+    text-decoration: none;
+    color: white;
+}
+.button3 a
+{
+    text-decoration: none;
+    color:black;
+}
+.block4
+{
+    width: 100%;
+    height: 700px;
+    display: flex;
+}
+.left-block4
+{
+   width: 50%; 
+   height: 700px;
+   
+   
+}
+.right-block4
+{
+   width: 50%; 
+   height: 700px;
+   
+}
+.left-block4 img
+{
+    width: 85%;
+    height: 600px;
+    object-fit: cover;
+    margin-left: 60px;
+    margin-top: 55px;
+    
+}
+.right-block4 h1
+{
+    font-size: 42px;
+    font-weight: normal;
+    font-family:sans-serif;
+    padding-top: 300px;
+    padding-left: 109px;
+   
+}
+.button4 
+{
+    height: 63px;
+    width: 175px;
+    font-size: 18px;
+    font-family:sans-serif;
+    font-weight: lighter;
+    background-color: black;
+    margin-left: 112px;
+    
+}
+.button4 a
+{
+    text-decoration: none;
+    color: white;
+}
+.button5
+{
+    height: 63px;
+    width: 200px;
+    font-size: 18px;
+    font-family:sans-serif;
+    font-weight: lighter;
+    background-color: white;
+}
+
+.button5 a
+{
+    text-decoration: none;
+    color: black;
+    
+}
+.block5
+{
+    width: 100%;
+    height: 550px;
+    display: flex;
+}
+.left-block5
+{
+    width: 33%;
+    background-color: black;
+    height: 480px;
+}
+.button6
+{
+    height: 63px;
+    width: 215px;
+    font-size: 18px;
+    font-family:sans-serif;
+    font-weight: lighter;
+    background-color: black;
+    border-color: white;
+    margin-top: 375px;
+    margin-left: 95px;
+}
+
+.button6 a
+{
+    text-decoration: none;
+    color: white;
+}
+.right-block5 img
+{
+    width: 100%;
+    height: 480px;
+    object-fit: cover;
+}
+.right-block5
+{
+    width: 67%;
+    height: 480px;
+
+}
+.block6
+{
+    width: 100%;
+    height: 750px;
+    display: flex;
+}
+.left-block6
+{
+    width: 60%;
+    height: 750px;
+    background-color: black;
+    color: white;
+
+}
+.left-block6 p
+{
+    font-weight: normal;
+    font-family: sans-serif;
+    font-size: 35px;
+    margin-top: 500px;
+    margin-left: 25px;
+    margin-right: 15px;
+    line-height: 1.2cm;
+}
+.right-block6
+{
+    width: 40%;
+    height: 750px;
+    
+}
+.button7 
+{
+    height: 63px;
+    width: 175px;
+    font-size: 18px;
+    font-family:sans-serif;
+    font-weight: lighter;
+    background-color: black;
+    margin-left: 25px;
+    border-color: white;
+}
+.button7 a
+{
+    text-decoration: none;
+    color: white;
+}
+.button8
+{
+    height: 63px;
+    width: 200px;
+    font-size: 18px;
+    font-family:sans-serif;
+    font-weight: lighter;
+    background-color: black;
+    border-color: white;
+}
+
+.button8 a
+{
+    text-decoration: none;
+    color: white;
+    
+}
+.right-block6 img
+{
+    width: 100%;
+    height: 750px;
+    object-fit: cover;
+    
+}
+.middle
+{
+    width: 100%;
+    height: 890px;
+}
+.middle1
+{
+    width: 100%;
+    height: 375px;
+    position: absolute;
+    display: flex;
+}
+.textp1 p
+{
+    font-family: sans-serif;
+    font-size: 32px;
+    padding-left: 40px;
+    padding-top: 25px;
+    
+}
+.textp2 
+{ 
+    
+    display: flex;
+    padding-top: 232px;
+    padding-left: 46px 
+    
+     
+}
+.textp2 h1 
+{
+
+    
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+    margin-right: 277px;
+    width: 150px;
+}
+.textp3 
+{ 
+    
+    display: flex;
+    padding-left: 46px  
+}
+.textp3 h1 
+{
+
+    
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight:bold;
+    margin-right: 277px;
+    width: 150px;
+}
+.textp3 a
+{
+    text-decoration: none;
+    color: black;
+}
+.middle1 img
+{
+    position: relative;
+    display: inline-block;
+    margin-right: 15px;
+    height: 230px;
+    width: 410px;
+    top: 0px;
+    right: -48px;
+}
+    
+    
+
+
+.middle2
+{
+    width: 100%;
+    height: 375px;
+    
+}
+.footer
+{
+    height: 950px;
+    width: 100%;
+    background-color: black;
+    
+}
+.footer1
+{
+
+    height: 600px;
+    width: 100%;
+}
+
+.footer2
+{
+
+    height: 300px;
+    width: 100%;
+    
+    
+}
+.list ul
+{
+    list-style-type: none;
+    color: white;
+    font-family:sans-serif;
+    float: left;
+    padding-top: 5px;
+    line-height: .8cm;
+   margin-right: 262px;
+  
+}
+.list,.list1
+{
+    font-size:13px ;
+}
+
+.btt h1
+{
+    font-size:13px ;
+    
+    font-family:sans-serif;
+    padding-left: 1200px; 
+    margin: 0;
+    padding-top: 24px;
+    
+}
+.btt a
+{
+    text-decoration: none;
+    color: white;
+}
+.head 
+{
+    font-size:16px ;
+}
+.line
+{
+    width: 93%;
+    margin-left: 38px;
+
+}
+.line hr
+{
+    background-color: white;
+    border-bottom: 1px solid white;
+}
+.list1 ul
+{
+    list-style-type: none;
+    color: white;
+    font-family:sans-serif;
+    float: left;
+    padding-top: 5px;
+    line-height: .8cm;
+   margin-right: 262px;
+  
+}
+.text1
+{
+    color: white;
+    font-family:sans-serif;
+    font-size:12px ;
+    display: flex;
+    
+}
+.text1 p
+{
+
+    padding-left: 35px;
+}
+.text2
+{
+    color: white;
+    font-family:sans-serif;
+    font-size:12px ;
+}
+
+.text2 p
+{
+    
+    padding-left: 36px;
+    padding-right: 100px;
+    padding-top: 25px;
+    
+    
+}
+
+
